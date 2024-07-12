@@ -1,5 +1,0 @@
-product1 : O
-product2 : O
-product3 : S
-product4 : D
-product5 : U
